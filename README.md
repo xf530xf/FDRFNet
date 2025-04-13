@@ -43,7 +43,7 @@ The directory should be like this:
 cd src
 ./train.sh
 ```
-* We implement our method by PyTorch and conduct experiments on 1 NVIDIA 3090 GPU.
+* We implement our method by PyTorch and conduct experiments on 2 NVIDIA RTX4090 GPUs.
 * We adopt pre-trained [DeiT](https://dl.fbaipublicfiles.com/deit/deit_base_distilled_patch16_384-d0272ac0.pth) and [PvT](https://github.com/whai362/PVT/releases/download/v2/pvt_v2_b3.pth) as backbone networks, which are saved in PRE folder.
 * We train our method on 2 backbone settings : ViT and Pvt.
 * After training, the trained models will be saved in MODEL folder.
