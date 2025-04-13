@@ -1,6 +1,6 @@
 # FDRFNet
-Our work will soon be open source!
 
+Paper Title: Full Frequency Decomposition and  Reasoning Fusion for Camouflaged Object Detection
 
 
 
