@@ -7,7 +7,7 @@ Our work will soon be open source!
 ## Usage
 ### Requirements
 * Python 3.8
-* Pytorch 1.7.1
+* Pytorch 1.13
 * OpenCV
 * Numpy
 * Apex
